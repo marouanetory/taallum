@@ -18,9 +18,26 @@ Progress Map: Chapter 7 Differential Equations
 
 Overall Progress: [###-------] 30%
 ```
-### Idea 2:
+### Idea 3:
 Use motivational / Gamified learning methods.
 ```math
 Achievement\;Unlocked:
 \boxed{\text{Use the simplest method that matches the equation.}}
 ```
+
+### idea 4
+SKills exp gained.
+```md
++10 XP  Recognized reducible higher-order equation
++10 XP  Used substitution z = y'
++10 XP  Solved first-order homogeneous equation
++10 XP  Integrated back to y
++15 XP  Chose the simplest valid method
+
+Total: +55 XP
+```
+
+
+### idea 5:
+easy questions are mobs, complicated ones are boss.
+beat the boss to solve question
