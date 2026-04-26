@@ -38,6 +38,12 @@ SKills exp gained.
 
 Total: +55 XP
 ```
+### idea 5
+the way we handle cost is by implementing energy system. 
+Low credits = low energy
+
+### idea 5 
+gamify explanation sometimes can distort the explaination. we need the ability to toggle it on and off.
 
 
 ### idea 5:
