@@ -24,6 +24,8 @@ Use motivational / Gamified learning methods.
 Achievement\;Unlocked:
 \boxed{\text{Use the simplest method that matches the equation.}}
 ```
+or 
+🏆 Achievement Unlocked: “Use the simplest method that matches the equation.”
 
 ### idea 4
 SKills exp gained.
