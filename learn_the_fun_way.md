@@ -42,10 +42,13 @@ Total: +55 XP
 the way we handle cost is by implementing energy system. 
 Low credits = low energy
 
-### idea 5 
+### idea 6
 gamify explanation sometimes can distort the explaination. we need the ability to toggle it on and off.
 
 
-### idea 5:
+### idea 7:
 easy questions are mobs, complicated ones are boss.
 beat the boss to solve question
+
+### idea 8:
+clearing chapters/units is like clearing floors/levels in a tower/dungeon
