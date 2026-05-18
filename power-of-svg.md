@@ -2,7 +2,7 @@
 # Generating free body diagram with AI
 
 ## Problem:
-When we try to generate pictures with LLM, it is often inaccurate, deformed, riddled with wrong shapes due to the nature of how computationally expensive to draw pixel and the lack of accurate methods to verify it. LLM is blind, it cannot see unless the result is out and you upload it again to verify it. It will still struggle over and over to make it.
+If we try to generate pictures with LLM, it is often inaccurate, deformed, riddled with wrong shapes due to the nature of how computationally expensive to draw pixel and the lack of accurate methods to verify it. LLM is blind, it cannot see unless the result is out and you upload it again to verify it. It will still struggle over and over to make it.
 ## Solution:
 AI is getting better and better at Math. We can leverage this capability by using SVG* format. SVG is made of geometrical shape therefore as long as AI can think through it the right way, it can spot errors in a systematic manner and redraw it in the proper positions just by adjusting numbers. It can happens in just one inference.
 > “Scalable Vector Graphics (SVG) is an XML-based vector graphics format for defining two-dimensional graphics, having support for interactivity and animation.” – Wikipedia https://en.wikipedia.org/wiki/SVG
